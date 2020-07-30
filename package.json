@@ -22,7 +22,7 @@
     "sleep-ref": "~1.0.0",
     "through": "~2.3.4",
     "split": "~0.2.10",
-    "request": "~2.27.0",
+    "request": "~2.88.2",
     "hat": "~0.0.3",
     "stream-combiner": "~0.0.2",
     "rimraf": "~2.2.2",
