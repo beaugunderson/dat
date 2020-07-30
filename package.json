@@ -29,7 +29,7 @@
     "byte-stream": "~0.0.1",
     "multibuffer-stream": "~2.0.0",
     "multibuffer": "~2.0.0",
-    "extend": "~1.2.1",
+    "extend": "~3.0.2",
     "level-hyper": "~0.18.0",
     "lexicographic-integer": "~1.1.0",
     "level-mutex": "~0.7.0",
